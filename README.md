@@ -7,7 +7,8 @@ Until then, I propose a cost-effective yet overriding patch-update to our existi
 
 ## 2. Universal Basic Income (UBI) System 
 
-UBI rids inefficient labor. It frees people to invest time for more effective labors.
+UBI frees people to invest effort for more effective labors. 
+Suppose the total population is A
 
 ### Costs of UBI
 * Difficult to adjust for minimum income levels across regions  
