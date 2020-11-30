@@ -9,7 +9,7 @@ Until then, I propose a cost-effective, small, yet overriding patch-update to ou
 
 ## An Universal Public Voting System
 1. Every human freely receives a single-use point every day to send to other human(s).  
-  * This is a voting system. As such, we can't respend points as we do with money from other players. 
+  ** This is a voting system. As such, we can't respend points as we do with money from other players. 
   * This is because the ownership of money is transferrable; whereas the ownership of votes rests with the original voter.
 
 
