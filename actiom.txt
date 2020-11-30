@@ -1,0 +1,31 @@
+While our civilization 
+
+
+
+Make this DApp (1):
+Every human freely receives a single-use point every day to pay gas to send to other human(s). The sender can split his unsent points and void his sent points. Each ID has a percentage score which tells how likely the ID uniquely represents a  human.
+
+
+The network multiplies this score to all points associated with its ID. Deceased IDs are frozen but they can still receive points from other IDs. Account represents a group of IDs, and it routes points only.
+
+
+
+I think you too are looking to popularize a game  that grants everyone an equal voting right (money is not such game).
+
+
+With tokens, 20% will always own 80% over time. Blockchain won't achieve decentralization of power unless it grants each participant an equal amount of voting power. Grant two single-use votes to each blockchain human ID per day.
+
+Assumptions:
+1. To God, we are all equal.
+2. If an individual is guaranteed life support (food and shelter), he is more likely to do good.
+
+Objective:
+Guarantee minimum life standards for many.
+
+
+Problems with an Universal Basic Income System:
+1. Difficult to adjust for minimum income levels across different regions
+2. Adjusting for inflation is troublesome
+
+Solution:
+Everyone gets the same amount of votes per day to reward others.
