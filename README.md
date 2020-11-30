@@ -22,7 +22,7 @@ UPV shares the same
 ### Rule 1: Each human ID (H-ID) has a percentage authenticity score which indicates how likely this ID uniquely represents a human.
 As with an UBI, people in an UPV would also tend to gain advantage over others via fradulent accounts. Algorithms, multi-level authentication and government IDs should greatly weed out such effects. A percentage score coupled with rule 3 incentivizes individuals to validate their IDs, strengthening this identity system in return.
 
-#### Rule 2: Every day, all human IDs freely receive the same amount of single-use voting points for upvoting/downvoting other human ID(s).  
+### Rule 2: Every day, all human IDs freely receive the same amount of single-use voting points for upvoting/downvoting other human ID(s).  
 This is a voting system. As such, we can't reuse points as we do with money of other players. This is because the ownership of money is transferrable; whereas the ownership of vote is not. 
 There was a Blackmirror episode mocking a UPV. The UPV assumed in that episode grants infinite voting points, which voids the value of votes in the first place. It is not analogous to a system with finite resources such as this one. Begging for votes may still exists as begging for money. But the sender may now be better exused. This peer-pressure is further nullified in rule 4.
 
